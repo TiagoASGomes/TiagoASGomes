@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Somuga](https://github.com/TiagoASGomes/somuga)
 
-- 🌱 I’m currently learning **Angular, Spring Boot**
+- 🌱 I’m currently learning **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

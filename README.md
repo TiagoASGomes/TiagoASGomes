@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagoasgomes" alt="tiagoasgomes" /></a> </p>
 
-- 🔭 I’m currently working on [Somuga](https://github.com/TiagoASGomes/somuga)
-
-- 🌱 I’m currently learning **Angular**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tiago-gomes-4272952ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago gomes" height="30" width="40" /></a>
